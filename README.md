@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @barlowHyf，A java developer.
+- 👀 I’m interested in ...？ I don't know.
+- 🌱 I’m currently learning Go、Rust...
+- ⚡ Fun fact: ... I'll let you know when I think about it.
